@@ -16,3 +16,24 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+.barUno{
+	width: 60%;
+}
+.barDos{
+	width: 40%;
+}
+.barTres{
+	width: 20%;
+}
+.barCuatro{
+	width: 80%;
+}
+.treinta{
+    width: 35%;
+}
+.veinte{
+	width: 20%;
+}
+.diez{
+	width: 10%;
+}
